@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abhi_zanzarukiya/ece650/arzanzar/t2/prime_factor.cpp
+iostream
+-
+sstream
+-
+vector
+-
+cmath
+-
+

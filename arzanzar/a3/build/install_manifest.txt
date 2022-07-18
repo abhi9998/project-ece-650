@@ -1,0 +1,4 @@
+/home/abhi_zanzarukiya/ece650/arzanzar/a3/build/run/bin/ece650-a1.py
+/home/abhi_zanzarukiya/ece650/arzanzar/a3/build/run/bin/ece650-a2
+/home/abhi_zanzarukiya/ece650/arzanzar/a3/build/run/bin/ece650-a3
+/home/abhi_zanzarukiya/ece650/arzanzar/a3/build/run/bin/rgen
