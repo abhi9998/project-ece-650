@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/abhi_zanzarukiya/ece650/h23mistr-arzanzar/aa",
+  "command": "/usr/bin/c++   -I/home/abhi_zanzarukiya/ece650/h23mistr-arzanzar/minisat  -std=c++11 -Wall   -pthread -fsanitize=address,undefined   -o CMakeFiles/ece650-analysis.dir/ece650-analysis.cpp.o -c /home/abhi_zanzarukiya/ece650/h23mistr-arzanzar/ece650-analysis.cpp",
+  "file": "/home/abhi_zanzarukiya/ece650/h23mistr-arzanzar/ece650-analysis.cpp"
+},
+{
+  "directory": "/home/abhi_zanzarukiya/ece650/h23mistr-arzanzar/aa",
+  "command": "/usr/bin/c++   -I/home/abhi_zanzarukiya/ece650/h23mistr-arzanzar/minisat  -std=c++11 -Wall   -pthread -fsanitize=address,undefined   -o CMakeFiles/ece650-prj.dir/ece650-prj.cpp.o -c /home/abhi_zanzarukiya/ece650/h23mistr-arzanzar/ece650-prj.cpp",
+  "file": "/home/abhi_zanzarukiya/ece650/h23mistr-arzanzar/ece650-prj.cpp"
+},
+{
+  "directory": "/home/abhi_zanzarukiya/ece650/h23mistr-arzanzar/aa",
+  "command": "/usr/bin/c++   -I/home/abhi_zanzarukiya/ece650/h23mistr-arzanzar/minisat  -std=c++11 -Wall   -pthread -fsanitize=address,undefined   -o CMakeFiles/test.dir/test.cpp.o -c /home/abhi_zanzarukiya/ece650/h23mistr-arzanzar/test.cpp",
+  "file": "/home/abhi_zanzarukiya/ece650/h23mistr-arzanzar/test.cpp"
+}
+]
